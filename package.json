@@ -1,0 +1,9 @@
+{
+  "name": "api-comparison-tool",
+  "description": "Simple script to diff API responses",
+  "author": "Matt B <matt@dinosaursareawesome.co.uk>",
+  "dependencies": {
+    "colors": "*",
+    "diff": "*"
+  }
+}
