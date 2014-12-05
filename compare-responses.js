@@ -1,3 +1,5 @@
+'use strict';
+
 var http = require('http');
 require ('colors');
 var url = require('url');
